@@ -33,7 +33,7 @@ Prenášanie vody a minerálnych látok - **transpiračný prúd** <br>
 Prenášanie organických látok - **asimilačný pŕud** <br>
 Nepohlavné rozmnožovanie <br>
 Druhotne plní funkciu zásobného orgánu <br>
-9. **Akým spôsobom rastie stonka?**
+9. **Akým spôsobom rastie stonka?** <br>
 Nerovnomerne <br>
 Striedajú sa **nódy** a **internódia** <br>
 Rast proti smeru zemskej tiaže <br>
@@ -63,10 +63,10 @@ Fotosyntéza <br>
 Vyparovanie - transpirácia, vytláčanie vodných kvapiek - gtuácia <br>
 Výmena plynov <br>
 15. **Rozdiel medzi jednoduchým a zloženým listom, príklad** <br>
-Jednoduchý list má len jednu stopku, napr. borovica, zatiaľ čo pri zloženom liste vyrastájú z "hlavnej" stopky aj "vedľajšie". <br>
+Jednoduchý list má len jednu stopku, napr. borovica, zatiaľ čo pri zloženom liste vyrastájú z "hlavnej" stopky aj "vedľajšie" - orech <br>
 16. **Typy žilnatiny** <br>
 Rovnobežná - svokrin jazyk <br>
-Perovitá - lipa, jelša
+Perovitá - lipa, jelša <br>
 Dlaňovitá - javor
 17. **Rozdiel medzi monofaciálnym a bifaciálnym listom v anatomickej stavbe** <br>
 Horná časť bifaciálneho lista je iná ako jeho spodná časť - pri monofaciálnom sú obe časti na pohľad rovnaké <br>
