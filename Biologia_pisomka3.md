@@ -60,7 +60,7 @@ Sukulent - dužinatá stonka (kaktus) <br>
 Stonková hľuza - hromadenie zásobných látok (zemiak) <br>
 14. **Funkcie listu** <br>
 Fotosyntéza <br>
-Vyparovanie - transpirácia, vytláčanie vodných kvapiek - gtuácia <br>
+Vyparovanie - transpirácia, vytláčanie vodných kvapiek - gutácia <br>
 Výmena plynov <br>
 15. **Rozdiel medzi jednoduchým a zloženým listom, príklad** <br>
 Jednoduchý list má len jednu stopku, napr. borovica, zatiaľ čo pri zloženom liste vyrastájú z "hlavnej" stopky aj "vedľajšie" - orech <br>
