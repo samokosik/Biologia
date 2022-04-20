@@ -73,7 +73,7 @@ Horná časť bifaciálneho lista je iná ako jeho spodná časť - pri monofaci
 Bifaciálny list má prieduchy len na spodnej strane, zatiaľ čo monofaciálny na oboch <br>
 Bifaciálny list má kutikulu len v hornej časti, monofaciálny na oboch <br>
 Bifaciálny list má pod vrchnou pokožkou palisádový parenchým, zatiaľ čo monofaciálny má len špongiovitý <br>
-Sumárne: spodná časť je vlastne osovo súmerná s hornou časťou listu podľa osi x za predpokladu, že v karteziánskej sústave súradníc prechádza os x listom vo výške <i>0,5v</i>, ak <i>v</i> je jeho výška a zároveň je list umiestnený rovnobežne s osou x 
+Sumárne: spodná časť monofaciálneho listu je vlastne osovo súmerná s hornou časťou listu podľa osi x za predpokladu, že v karteziánskej sústave súradníc prechádza os x listom vo výške <i>0,5v</i>, ak <i>v</i> je jeho výška a zároveň je list umiestnený rovnobežne s osou x 
 18. **4 metamorfózy listov + príklady** <br>
 Listy mäsožravých rastlín - rosička <br>
 Cibuľa (zásobná funkcia) - cesnak, 
