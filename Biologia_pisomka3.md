@@ -38,7 +38,7 @@ Nerovnomerne <br>
 Striedajú sa **nódy** a **internódia** <br>
 Rast proti smeru zemskej tiaže <br>
 10. **Typy stoniek + príklady** <br>
-Dreviny - stromy (pagaštan konský), kry (zlatý dážď), polokry (čučoriedka) <br>
+Dreviny - stromy (pagaštan konský), kry (šípka, orgován), polokry (čučoriedka) <br>
 Polokry - nadzemná časť pri zemi drevnatie, ale kvetonosne vyhonky sú bylinné <br>
 Kry - úplne zdrevnatené stonky bylinných častí <br>
 Byliny - byľ (mak, mäta) - olistená stonka, stvol (púpava, vranie oko) - neolistená stonka, steblo (tráva, jačmeň, ovos) - stonka tráv s kolienkami <br>
